@@ -2,6 +2,8 @@
 
 Tic Tac Toe AI is an interactive web application built with Next.js and React, allowing users to play Tic Tac Toe against an AI opponent. The AI employs a strategic algorithm to make defensive and offensive moves, ensuring a challenging gameplay experience. The application features a responsive design with a visually appealing interface, including gradient backgrounds and hover effects.
 
+[Visit Live Project](https://mrishikreddy.github.io/rishik.tech.projects/ticTacToe)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
