@@ -1,6 +1,5 @@
 # Tic Tac Toe AI
 
-## Description
 Tic Tac Toe AI is an interactive web application built with Next.js and React, allowing users to play Tic Tac Toe against an AI opponent. The AI employs a strategic algorithm to make defensive and offensive moves, ensuring a challenging gameplay experience. The application features a responsive design with a visually appealing interface, including gradient backgrounds and hover effects.
 
 ## Table of Contents
@@ -9,9 +8,6 @@ Tic Tac Toe AI is an interactive web application built with Next.js and React, a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
@@ -65,30 +61,11 @@ tic-tac-toe-ai/
 ├── src/
 │   ├── app/
 │   │   ├── page.js              # Main Tic Tac Toe component
-│   │   ├── ticTacToe/
-│   │   │   ├── ttt.module.css   # Styles for the Tic Tac Toe component
+│   │   ├── ttt.module.css       # Styles for the Tic Tac Toe component
+│   │   │   
 ├── package.json                 # Project dependencies and scripts
 ├── README.md                    # Project documentation
 ```
-
-## Contributing
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit them (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-Please ensure your code follows the project's coding standards and includes appropriate tests.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-- **Author**: Rishik Tech
-- **Email**: rishiktech@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
 
 ## Acknowledgements
 - Inspired by classic Tic Tac Toe games.
