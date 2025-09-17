@@ -17,7 +17,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-ai.git
+   git clone https://github.com/mrishikreddy/Tic-Tac-Toe-RT15.git
    ```
 
 2. **Navigate to the project directory**:
